@@ -10,10 +10,15 @@ Indicador visual de conclusão: Quando uma tarefa é concluída, o site exibe um
 Adição ilimitada de tarefas: O usuário pode adicionar quantas tarefas quiser durante o dia, organizando seu tempo de estudo da forma que preferir.
 
 Tecnologias Utilizadas
+
 O Studie Room foi desenvolvido utilizando as seguintes tecnologias:
 
 React Js: O site foi todo projetado ultilizando react para dinamismo da página.
+
 TypeScript: Para melhor entendimento do código.
+
 HTML5: Para a estruturação do site.
+
 CSS3: Para a estilização e aparência visual do site.
+
 JavaScript: Para a lógica e interações dinâmicas do site.

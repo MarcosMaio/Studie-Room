@@ -1,4 +1,4 @@
-#Studie Room <br>
+# Studie Room <br>
 
  O Studie Room é um site que permite ao usuário adicionar tarefas de estudo e definir o tempo desejado para cada uma delas. O site destaca a tarefa selecionada em destaque na tela e exibe um cronômetro que diminui em tempo real, mostrando quanto tempo ainda resta para estudar a tarefa selecionada. Quando uma tarefa é concluída, o site exibe um indicador visual de conclusão em verde dinamicamente. O usuário pode adicionar quantas tarefas quiser durante o dia.<br>
 

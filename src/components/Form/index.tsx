@@ -45,7 +45,7 @@ export default class Form extends React.Component <{
                         onChange={event => this.setState ({...this.state, task: event.target.value}
                             )}
                             
-                        placeholder='What do you want to study now?'
+                        placeholder='What do you want to study ?'
                         required
                     />
                 </div>
